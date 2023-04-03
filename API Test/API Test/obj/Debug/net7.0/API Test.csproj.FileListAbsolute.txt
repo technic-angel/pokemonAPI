@@ -1,0 +1,51 @@
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/appsettings.Development.json
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/appsettings.json
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test.staticwebassets.runtime.json
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test.deps.json
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test.runtimeconfig.json
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/API Test.pdb
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.csproj.AssemblyReference.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.AssemblyInfoInputs.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.AssemblyInfo.cs
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.csproj.CoreCompileInputs.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.MvcApplicationPartsAssemblyInfo.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.RazorAssemblyInfo.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.RazorAssemblyInfo.cs
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets/msbuild.API Test.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets/msbuild.build.API Test.props
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API Test.props
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API Test.props
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets.build.json
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/staticwebassets.development.json
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/scopedcss/bundle/API Test.styles.css
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/scopedcss/projectbundle/API Test.bundle.scp.css
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.dll
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/refint/API Test.dll
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.pdb
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.genruntimeconfig.cache
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/ref/API Test.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/melissa/Projects/API Test/API Test/obj/Debug/net7.0/API Test.csproj.CopyComplete
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/System.Net.Http.Formatting.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/DnsClient.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/SharpCompress.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/Snappier.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/ZstdSharp.dll
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/melissa/Projects/API Test/API Test/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
